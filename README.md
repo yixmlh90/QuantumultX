@@ -4,9 +4,8 @@
 
 搬运自用! 搬运自用! 搬运自用!
 
-项目搬运与[nzw9314仓库]
+* 项目搬运与[nzw9314仓库](https://github.com/nzw9314/QuantumultX/tree/master)
 ### 说明 :
-* 项目搬运与[nzw9314仓库](https://github.com/nzw9314/QuantumultX/tree/master)，
 * 只是搬运和同步更新大佬脚本
 
 * 不负责维护脚本.
