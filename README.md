@@ -107,7 +107,6 @@
 
 * [@lowking](https://github.com/lowking/Scripts)
 
-
-## License
+* [@iisams](https://github.com/iisams/Scripts)
 
 [GPLv3](LICENSE)
