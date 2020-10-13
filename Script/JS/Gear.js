@@ -4,7 +4,7 @@ Quantumult X 脚本:
 
 [rewrite_local]
 # Gear Unlock Pro （by LTribe）
-^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body Gear.js
+^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/yixmlh90/QuantumultX/master/Script/JS/Gear.js
 
 [mitm]
 hostname = buy.itunes.apple.com,
