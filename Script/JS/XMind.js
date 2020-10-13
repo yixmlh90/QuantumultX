@@ -5,7 +5,7 @@ Xmind Download Link : http://t.cn/A6zhp3Bm
 Thanks To@xiaozhuolao's membership data.
 [rewrite_local]
 # Xmind Unlock annual subscriptions （by LTribe）
-https?:\/\/.*\.xmind\..*\/_res\/devices url script-response-body XMind.js
+https?:\/\/.*\.xmind\..*\/_res\/devices url script-response-body https://raw.githubusercontent.com/yixmlh90/QuantumultX/master/Script/JS/XMind.js
 [mitm]
 hostname = *.xmind.*,
 */
