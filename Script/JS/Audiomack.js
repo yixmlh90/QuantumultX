@@ -4,7 +4,7 @@ Quantumult X 脚本:
 
 [rewrite_local]
 # Audiomack 去广告（by LTribe）
-^https?:\/\/api\.revenuecat\.com\/v\d\/subscribers\/\w+$ url script-response-body Audiomack.js
+^https?:\/\/api\.revenuecat\.com\/v\d\/subscribers\/\w+$ url script-response-body https://raw.githubusercontent.com/yixmlh90/QuantumultX/master/Script/JS/Audiomack.js
 
 [mitm]
 hostname = api.revenuecat.com,
