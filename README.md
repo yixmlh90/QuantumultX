@@ -107,6 +107,16 @@
 
 * [@iisams](https://github.com/iisams/Scripts)
 
-* [@ddgksf2013 ](https://github.com/ddgksf2013/Cuttlefish) # 公众号墨鱼手记 
+* [@ddgksf2013 ](https://github.com/ddgksf2013/Cuttlefish) # 公众号：墨鱼手记 
+
+* [@barrym-chen](https://github.com/barrym-chen/Script)
+
+* [@ziye12](https://github.com/ziye12/JavaScript)
+
+* [@sazs34](https://github.com/sazs34)
+
+* [@id77](https://github.com/id77)
+
+* [@wangdelu2020](https://github.com/wangdelu2020) # 红鲤鱼与绿鲤鱼与驴
 
 [GPLv3](LICENSE)
