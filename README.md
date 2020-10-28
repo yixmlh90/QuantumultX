@@ -3,7 +3,7 @@
 
 
 搬运测试! 搬运测试! 搬运测试! 搬运测试!
-
+不负责维护！
 * 搬运自[nzw9314仓库](https://github.com/nzw9314/QuantumultX/tree/master)
 ### 说明 :
 * 只是搬运和同步更新大佬脚本
