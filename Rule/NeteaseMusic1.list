@@ -1,3 +1,4 @@
+# for blackmatrix7  https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/NetEaseMusic
 # NAME: 解锁网易云
 HOST-SUFFIX,126.com,🎸解锁网易云
 HOST-SUFFIX,126.net,🎸解锁网易云
