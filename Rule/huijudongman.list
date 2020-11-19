@@ -1,0 +1,6 @@
+#检测
+HOST,www.umeng.com,DIRECT
+HOST,adview.cn,DIRECT
+#底栏
+HOST,googleads.g.doubleclick.net,REJECT
+HOST,www.19831110.com,REJECT
