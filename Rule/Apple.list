@@ -1,0 +1,46 @@
+# NAME: Apple 服务
+# 其它 
+HOST-SUFFIX,push.apple.com,Apple
+
+# App Store分流
+HOST-SUFFIX,appstore.com,Apple
+HOST-SUFFIX,xp.apple.com,Apple
+HOST-SUFFIX,ess.apple.com,Apple
+
+# App Store Connect ->神机
+HOST,appstoreconnect.apple.com,Apple
+HOST,iosapps-ssl.itunes.apple.com,Apple
+HOST,itcmobile.itunes.apple.com,Apple
+
+# App Store ->神机  Store content such as apps, books, and music
+HOST-SUFFIX,apps.apple.com,Apple
+HOST-SUFFIX,itunes.apple.com,Apple
+HOST-SUFFIX,itunes-apple.com.akadns.net,Apple
+HOST-SUFFIX,mzstatic.com,Apple
+HOST,ppq.apple.com,Apple
+
+# 设置
+HOST-SUFFIX,imap.mail.me.com,Apple
+
+# 总
+HOST-SUFFIX,apple.com,Apple
+HOST-SUFFIX,apple.com.cn,Apple
+HOST-SUFFIX,icloud.com,Apple
+HOST-SUFFIX,icloud.com.cn,Apple
+# beats 
+HOST-SUFFIX,beatsbydre.com,Apple
+HOST-SUFFIX,beatsbydre.com.cn,Apple
+
+# 未分类
+HOST-SUFFIX,mzstatic.com,Apple,Apple
+HOST-SUFFIX,apple-mapkit.com,Apple
+IP-CIDR,139.178.128.0/18,Apple
+IP-CIDR,144.178.0.0/19,Apple
+IP-CIDR,144.178.36.0/22,Apple
+IP-CIDR,144.178.48.0/20,Apple
+IP-CIDR,17.0.0.0/8,Apple
+IP-CIDR,192.35.50.0/24,Apple
+IP-CIDR,198.183.17.0/24,Apple
+IP-CIDR,205.180.175.0/24,Apple
+IP-CIDR,63.92.224.0/19,Apple
+IP-CIDR,65.199.22.0/23,Apple
