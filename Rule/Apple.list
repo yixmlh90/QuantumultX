@@ -1,22 +1,9 @@
 # NAME: Apple 服务
-# 其它 
-#HOST-SUFFIX,push.apple.com,Apple
 
 # App Store分流
 HOST-SUFFIX,appstore.com,Apple
 
-#HOST-SUFFIX,xp.apple.com,Apple
-#HOST-SUFFIX,ess.apple.com,Apple
-
-# App Store Connect ->神机
-#HOST,appstoreconnect.apple.com,Apple
-#HOST,iosapps-ssl.itunes.apple.com,Apple
-#HOST,itcmobile.itunes.apple.com,Apple
 # App Store ->神机  Store content such as apps, books, and music
-#HOST-SUFFIX,apps.apple.com,Apple
-#HOST-SUFFIX,itunes.apple.com,Apple
-#HOST,ppq.apple.com,Apple
-
 HOST-SUFFIX,itunes-apple.com.akadns.net,Apple
 HOST-SUFFIX,mzstatic.com,Apple
 
