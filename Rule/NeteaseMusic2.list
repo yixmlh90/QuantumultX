@@ -7,10 +7,10 @@ user-agent, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*, 🎸解锁网易云
 user-agent, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**, 🎸解锁网易云
 
 host-suffix,music.163.com,🎸解锁网易云
-#host-suffix,interface.music.163.com,🎸解锁网易云
-#host-suffix,interface3.music.163.com,🎸解锁网易云
-#host-suffix,apm.music.163.com,🎸解锁网易云
-#host-suffix,apm3.music.163.com,🎸解锁网易云
+host-suffix,interface.music.163.com,🎸解锁网易云
+host-suffix,interface3.music.163.com,🎸解锁网易云
+host-suffix,apm.music.163.com,🎸解锁网易云
+host-suffix,apm3.music.163.com,🎸解锁网易云
 IP-CIDR,59.111.181.38/32,🎸解锁网易云
 IP-CIDR,59.111.181.60/32,🎸解锁网易云
 IP-CIDR,223.252.199.66/32,🎸解锁网易云
