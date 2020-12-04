@@ -17,6 +17,10 @@ HOST-SUFFIX,appleid.cdn-apple.com,Apple
 HOST-SUFFIX,cdn.apple-cloudkit.com,Apple
 HOST-SUFFIX,apple-mapkit.com,Apple
 
+# TestFlight  for DivineEngine
+DOMAIN,beta.apple.com,PROXY
+DOMAIN,testflight.apple.com,PROXY
+
 # beats 
 HOST-SUFFIX,beatsbydre.com,Apple
 HOST-SUFFIX,beatsbydre.com.cn,Apple
