@@ -5,21 +5,29 @@ HOST-SUFFIX,appstore.com,Apple
 
 # App Store ->神机  Store content such as apps, books, and music
 HOST-SUFFIX,itunes-apple.com.akadns.net,Apple
+HOST-SUFFIX,apple.com.akadns.net,Apple
 HOST-SUFFIX,mzstatic.com,Apple
 
 # 总
+HOST-SUFFIX,apple.co,Apple
 HOST-SUFFIX,apple.com,Apple
 HOST-SUFFIX,apple.com.cn,Apple
 HOST-SUFFIX,icloud.com,Apple
 HOST-SUFFIX,icloud.com.cn,Apple
 
-HOST-SUFFIX,appleid.cdn-apple.com,Apple
-HOST-SUFFIX,cdn.apple-cloudkit.com,Apple
+HOST-SUFFIX,cdn-apple.com,Apple
+HOST-SUFFIX,apple-cloudkit.com,Apple
 HOST-SUFFIX,apple-mapkit.com,Apple
 
+# > Apple for DivineEngine for China.list
+HOST-SUFFIX,aaplimg.com,Apple
+HOST-SUFFIX,icloud-content.com,Apple
+HOST-SUFFIX,me.com,Apple
+HOST-KEYWORD,icloud.com.akadns.net,Apple
+
 # TestFlight  for DivineEngine
-DOMAIN,beta.apple.com,PROXY
-DOMAIN,testflight.apple.com,PROXY
+HOST,beta.apple.com,PROXY
+HOST,testflight.apple.com,PROXY
 
 # beats 
 HOST-SUFFIX,beatsbydre.com,Apple
