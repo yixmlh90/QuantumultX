@@ -10,9 +10,9 @@ host, jellyfin.xeton.dev, Proxy
 host, movie.xeton.dev, Proxy
 host, servers.xeton.dev, Proxy
 
-#Emby地址更新 (最終版，已套AGA)
+#Emby地址更新 (最終版，已套AGA) 有NSFW内容-用户名: Guest密碼： 1234
 host, emby.otakudrive.life, Proxy
 host, emby-dns-purge.ok.edu.hk, Proxy
 
-#开车番 emby直连
+#开车番 emby直连 地址： https://emby.aliwap.cf 端口：443 账号：quanx 密码：quanx
 host, emby.aliwap.cf, direct
