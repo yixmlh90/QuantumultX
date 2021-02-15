@@ -1,9 +1,9 @@
 # emby终点站- AGA线 cf线路直连服（1-2号）
 host-suffix, emby.wtf, direct
 
-# 普拉斯影业-AGA-BGP直连
+# 普拉斯影业-AGA直连---CF公益服 
 host, emby.plusmedia.site, Proxy
-host, bgp.emby.mickeycloud.com, Proxy
+host, emby-cf.plusmedia.site, Proxy
 # 普拉斯备用1-4服
 host, emby.xeton.dev, Proxy
 host, jellyfin.xeton.dev, Proxy
@@ -11,8 +11,11 @@ host, movie.xeton.dev, Proxy
 host, servers.xeton.dev, Proxy
 
 # Emby地址更新 (最終版，已套AGA) 有NSFW内容-用户名: Guest密碼： 1234
-host, emby.otakudrive.life, Proxy
-host, emby-dns-purge.ok.edu.hk, Proxy
+host, emby.neko.edu.rs, Proxy
+host, emby.ok.edu.hk, Proxy
+
+# 卷毛鼠 
+host-suffix, jmsooo.com, Proxy
 
 #开车番 emby直连 地址： https://emby.aliwap.cf 端口：443 账号：quanx 密码：quanx
 host, emby.aliwap.cf, direct
