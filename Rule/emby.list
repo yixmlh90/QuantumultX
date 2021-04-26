@@ -1,6 +1,9 @@
 # emby终点站- AGA线 cf线路直连服（1-2号）
 host-suffix, emby.wtf, direct
 
+#Odyssey+地址
+host-suffix, cf.youremby.gq, direct
+
 # 普拉斯影业-AGA直连---CF公益服 
 host, emby.plusmedia.site, Proxy
 host, emby-cf.plusmedia.site, Proxy
