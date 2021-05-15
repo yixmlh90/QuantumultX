@@ -15,6 +15,7 @@ HOST-SUFFIX,apple.com,Apple
 HOST-SUFFIX,apple.com.cn,Apple
 HOST-SUFFIX,icloud.com,Apple
 HOST-SUFFIX,icloud.com.cn,Apple
+HOST,icloud.com,Apple
 
 HOST-SUFFIX,cdn-apple.com,Apple
 HOST-SUFFIX,apple-cloudkit.com,Apple
