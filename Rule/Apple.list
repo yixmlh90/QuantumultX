@@ -1,7 +1,8 @@
 # NAME: Apple 服务 23条
 
 # App Store分流
-HOST-SUFFIX,appstore.com,Apple
+HOST,appstore.com,Apple
+HOST,appleid.apple.com,Apple
 
 # App Store ->神机  Store content such as apps, books, and music
 HOST-SUFFIX,itunes-apple.com.akadns.net,Apple
