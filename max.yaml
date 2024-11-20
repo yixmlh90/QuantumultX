@@ -6,8 +6,14 @@
 payload:
   - DOMAIN-SUFFIX,max.com
   - DOMAIN-SUFFIX,discomax.com
+  - DOMAIN-SUFFIX,cinemax.com
   - DOMAIN-SUFFIX,media.h264.io
+  - DOMAIN-SUFFIX,hbomax.com
   - DOMAIN-SUFFIX,litix.io
+  - DOMAIN-SUFFIX,hbomaxcdn.com
+  - DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
+  - DOMAIN-SUFFIX,hbonow.com
+  - DOMAIN-SUFFIX,maxgo.com
   - DOMAIN-SUFFIX,brightline.tv
   - DOMAIN-SUFFIX,branch.io
   - DOMAIN-SUFFIX,warnermediacdn.com
@@ -15,3 +21,4 @@ payload:
   - DOMAIN-SUFFIX,ngtv.io
   - DOMAIN-SUFFIX,pypestream.com
   - DOMAIN-SUFFIX,arkoselabs.com
+  - USER-AGENT,HBOMAX*
