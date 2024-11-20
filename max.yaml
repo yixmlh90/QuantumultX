@@ -2,7 +2,7 @@
 # AUTHOR: yixmlh90
 
 # UPDATED: 2024-11-19
-# TOTAL: 11
+# TOTAL: 21
 payload:
   - DOMAIN-SUFFIX,max.com
   - DOMAIN-SUFFIX,discomax.com
