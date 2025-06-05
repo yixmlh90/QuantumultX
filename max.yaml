@@ -5,6 +5,9 @@
 # TOTAL: 21
 payload:
   - DOMAIN-SUFFIX,max.com
+  - DOMAIN-SUFFIX,any-any.prd.api.discomax.com
+  - DOMAIN-SUFFIX,telegraph.prd.api.discomax.com
+  - DOMAIN-SUFFIX,default.beam-latam.prd.api.discomax.com
   - DOMAIN-SUFFIX,discomax.com
   - DOMAIN-SUFFIX,cinemax.com
   - DOMAIN-SUFFIX,h264.io
